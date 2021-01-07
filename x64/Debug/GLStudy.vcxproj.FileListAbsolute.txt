@@ -1,0 +1,2 @@
+C:\Projects\OpenGL\GLStudy\x64\Debug\GLStudy.exe
+C:\Projects\OpenGL\GLStudy\x64\Debug\GLStudy.pdb
